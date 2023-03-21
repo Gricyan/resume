@@ -1,0 +1,24 @@
+@import "~normalize.css";
+
+@import "abstracts/constants";
+@import "abstracts/mixins";
+@import "abstracts/placeholders";
+
+@import "base/animations";
+@import "base/base";
+@import "base/fonts";
+@import "base/rainbow";
+
+@import "components/header";
+@import "components/main";
+@import "components/menu";
+@import "components/burger";
+@import "components/contacts";
+@import "components/skills";
+@import "components/langs";
+@import "components/intro";
+@import "components/education";
+@import "components/code";
+@import "components/projects";
+@import "components/video";
+@import "components/footer";

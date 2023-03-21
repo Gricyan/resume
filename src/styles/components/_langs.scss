@@ -1,0 +1,18 @@
+.langs__title_icon {
+  background-image: url(../assets/icons/icon-langs.svg);
+}
+
+.langs__items {
+  line-height: 3.2rem;
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+.langs__items li {
+  @include flex ($flex: flex, $wrap: wrap, $justify: flex-start); 
+  gap: 0.5rem;
+}
+
+.langs__items_icon {
+  background-image: url(../assets/icons/icon-checked.svg);
+}

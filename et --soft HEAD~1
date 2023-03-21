@@ -1,0 +1,179 @@
+[33mcommit 7330f58e987689979465d01c10d3f0d138b39ce4[m[33m ([m[1;36mHEAD -> [m[1;32mdeploy[m[33m)[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Sep 20 21:45:41 2022 +0200
+
+    feat: add trailing whitespaces settings
+
+[33mcommit 5729122530ac3f052b1ef148f10a30724e042f96[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Mon Sep 19 23:21:15 2022 +0200
+
+    fix: trailing spaces
+
+[33mcommit 0cfb334453e8deeda72b3a1fbedfc8bbea4fedc3[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Mon Sep 19 23:19:29 2022 +0200
+
+    fix: trailing spaces
+
+[33mcommit 531082000961cd55e5c4acbf3e2fd691eb40b1be[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Jun 7 15:26:22 2022 +0200
+
+    feat: add dist folder to gitignore
+
+[33mcommit d7abe61dd37a910125442b7eaa59842821ed21ea[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Jun 7 15:21:59 2022 +0200
+
+    feat: add projects
+
+[33mcommit 8d1968abb76d7bd8fada754325cdb4ec1a7c2777[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Jun 7 08:56:01 2022 +0200
+
+    fix: remove from gitignore - projects section
+
+[33mcommit 5a4cb2889b6e399ce68a127d1b2f4ec020da80b9[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Jun 7 08:52:11 2022 +0200
+
+    fix: projects section
+
+[33mcommit 48e93ccccd21d861439131460ba3a56bd387136c[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Jun 7 01:33:02 2022 +0200
+
+    fix: education section
+
+[33mcommit aa133a24ba32e4774045fd28d9330e94ad377ce7[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Mon Jun 6 17:42:38 2022 +0200
+
+    fix: langs section
+
+[33mcommit 44b9a93bb7b25667b56f604a2002c3a94095c327[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Mon Jun 6 17:19:16 2022 +0200
+
+    fix: intro, contacts and scills sections
+
+[33mcommit 551087abb8008cf50faebf990d506b94be27f45c[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Sun Jun 5 21:33:06 2022 +0200
+
+    feat: add webpack and scss
+
+[33mcommit bfa240e507c853d7ae9c963bba7b8c8f12fa3539[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Wed Dec 29 13:55:00 2021 +0100
+
+    feat: edit footer and photo
+
+[33mcommit 41d1104a904e5af94dd0d8e2ba5a70af0582f82e[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 28 16:45:46 2021 +0100
+
+    feat: add discord link and courses info
+
+[33mcommit 9c8ad0e514b7e0796c24e874e245b4e9d96f494e[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Wed Dec 22 02:00:17 2021 +0100
+
+    fix: add untracked files
+
+[33mcommit 021be66ea9811ed53c83d465286d0acb38daa207[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Wed Dec 22 01:49:46 2021 +0100
+
+    fix: grammatical corrections
+
+[33mcommit 22985523aa3e509c62971a3fea4b6d873a80dbc1[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Wed Dec 22 01:34:22 2021 +0100
+
+    fix: customize code scrollbar and footer year
+
+[33mcommit 4b4a1746eac841d89389165d95cfaca6ed5199cf[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Wed Dec 22 01:07:35 2021 +0100
+
+    feat: add projects and footer
+
+[33mcommit 18c7f8a5a04d6278719a17ec6274d37fe0d8e137[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 23:32:46 2021 +0100
+
+    feat: add code section and highlights for it
+
+[33mcommit c7b4d039a1297148586ece448611ff8bc6191699[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 23:24:01 2021 +0100
+
+    feat: add summary and education info
+
+[33mcommit 66557fbcc937b908cf71bb5e861485b22a0b17e5[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 22:53:43 2021 +0100
+
+    feat: add script for menu button
+
+[33mcommit 977dedc6c4c5122cbda7c8a74b19700bbb301f5d[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 22:51:18 2021 +0100
+
+    feat: add aside section
+
+[33mcommit d35cec66d3b1dbd3332dc3cc586571bb2e6ca345[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 12:13:36 2021 +0100
+
+    feat: add header menu, logo and favicon
+
+[33mcommit 1b511fc1a75d5d7cf71d74127029fd85da12014a[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 10:00:43 2021 +0100
+
+    docs: create index.html, style.css and script.js
+
+[33mcommit 4f03ea8e63ffddc2b6b647d46073ec140ce06f7a[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 01:08:10 2021 +0100
+
+    feat: add languages level and rs-logo
+
+[33mcommit 41975985922d06cdb8645093840ed4d2d8c857ba[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 01:04:46 2021 +0100
+
+    feat: add code example
+
+[33mcommit f41c8291252fde088f7586a52712e9e898a1a173[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 00:58:23 2021 +0100
+
+    feat: add education and courses info
+
+[33mcommit 1c4166a072f0afb8b03762e33ccd89d8f79e2044[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 00:50:10 2021 +0100
+
+    feat: add summury and skils
+
+[33mcommit 3d920a88b96a80c78c1f9a696c425459511bd8b6[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 00:44:47 2021 +0100
+
+    feat: add contact information
+
+[33mcommit ef0ebd28d523eefbf248ec4f35ca49b8e83db1e4[m
+Author: Ivan Gricyan <gricyan82@gmail.com>
+Date:   Tue Dec 21 00:42:40 2021 +0100
+
+    docs: create cv file
+
+[33mcommit 330ccf6e717ef5621956f94b2c1dbdd8234beccf[m
+Author: Ivan Gricyan <88500321+Gricyan@users.noreply.github.com>
+Date:   Tue Dec 21 00:36:40 2021 +0100
+
+    Initial commit
